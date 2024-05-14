@@ -2,7 +2,7 @@
 
 My name is Felipe Asafe, I'm sixteen years old and I'm from Brazil
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utlizo esse espaço para minha organização e compartilhamento dos meus projetos
   
@@ -10,4 +10,4 @@ My name is Felipe Asafe, I'm sixteen years old and I'm from Brazil
 
   asafeacenciodemoraes@gmail.com
 
-  ![](https://tenor.com/bIzrc.gif)
+  ![](https://tenor.com/pt-BR/view/gym-cap-chris-bumstead-motivation-gif-22976644)
